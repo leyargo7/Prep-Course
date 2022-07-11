@@ -1,0 +1,26 @@
+Variables: Se pueden considerar una variable como si fuera una caja, 
+donde puedes guardar elementos. Puedes rotular la caja para que sin abrirla 
+recuerdes que guardaste en ella y acceder a estos elementos cuando lo requieras.
+
+Strings: Tienes una caja que le pusiste por rotulo nombre_completo. 
+Cuando la abres tienes recortes de letras que armadas dicen tu nombre. 
+Eso son los strings, son caracteres que agrupados pueden formar una 
+palabra o una frase.
+
+Funciones (argumentos, return)
+	Las funciones son lineas de codigo que sirve para realizar una tarea 
+    determinada. Por ejemplo sumar dos números. Los números a sumar pueden 
+    estar escritos dentro de la función o se pueden dar cuando se ejecute la 
+    función. Si se necesitan cambiar los números a sumar utilizamos los 
+    argumentos que son datos que se le pueden dar a la función. 
+    También si necesitamos que la función nos devuelva un valor para usarlo 
+    posteriormente en el programa utilizamos return.
+	
+Declaraciones If: Esta declaración tiene que ver con comparar si una 
+situación es verdadera o falsa. Nos sirve para que un programa tome un 
+camino u otro. Por ejemplo si usuario es mayor de 18 años pueden ingresar 
+a un establecimiento, de lo contrario no puede acceder. 
+
+Valores booleanos (true, false): son tipos de datos que puedes 
+almacenar en una variable y se utilizaran para comprobar el estado de 
+verdadero o falso.
