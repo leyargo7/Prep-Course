@@ -1,0 +1,10 @@
+Arrays:
+
+Permiten almacenar una colección de varios elementos en una sola variable.
+Por ejemplo puedes tener una variable llamada mercado y añadirle los productos 
+del mercado.
+
+var mercado['arroz', 'carne', 'aceite'];
+
+Los arrays también también tienen operaciones que permiten agregar nuevos items,
+eliminarlos, saber cuantos items hay, entre otros.
