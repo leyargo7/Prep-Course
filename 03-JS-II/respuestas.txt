@@ -1,0 +1,25 @@
+For:
+
+Es un ciclo que nos va a permitir repetir una serie de instrucciones
+siempre y cuando se cumplan los siguientes requisitos:
+    a. Definir la variable que lleva el conteo de cada vuelta del ciclo.
+    b. Condicionar la variable para determinar el numero de vueltas. Por ejemplo:
+       Mientras la variable sea menor a un x número seguiran los ciclos.
+    c. Por último aumentar la variable en uno para que se vayan completando las vueltas
+       que puedan terminar la condición.
+
+Operador lógico &&
+
+Este operador nos permite ejecutar una serie de acciones siempre y cuando la condición 1
+y la condición 2 se cumplan.
+
+Operador lógico ||
+
+Este operador nos permite ejecutar una serie de acciones mientrs la condición 1
+se cumpla o la condición 2 se cumpla.
+
+Operador lógico !
+
+El operador NOT permite invertir la comparación en una condición. Por ejemplo,
+numero == 0 //si numero es igual a 0 se ejecutan las siguientes acciones.
+numero != 0 //si numero no es igual a 0 se ejecutan las siguientes acciones.
