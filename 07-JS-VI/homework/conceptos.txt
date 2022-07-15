@@ -1,0 +1,4 @@
+Funciones Callback:
+
+Es una función que recibe como argumento otra función y la ejecuta en 
+un determinado momento.
