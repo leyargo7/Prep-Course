@@ -1,0 +1,59 @@
+Objetos:
+
+Imagina que tienes que escribir un programa donde debes describir información
+de cada usuario que se registre. Entonces crearás una variable para el nombre,
+otra para la edad, lugar de nacimiento, pasatiempo, etc. Quedaria de la siguiente
+forma.
+
+var nombre = "Andres";
+var edad = 26;
+var lugarNacimiento = "Bogotá";
+var pasatiempo = "programar";
+
+Como puede ver estamos utilizando una variable para cada datos. En lugar de ello
+podemos crear un objeto que coleccione esta información:
+
+var persona = {
+    nombre: "Andres",
+    edad: 26,
+    lugarNacimiento: "Bogotá",
+    pasatiempo: "programar
+}
+
+Propiedades: 
+En el anterior ejemplo creamos el objeto persona. Dentro de los objetos se crean
+propiedades que son asociacion entre clave y valor. La clave es el identificador
+y el valor es el tipo de dato que queremos guardar.
+
+Métodos:
+Dentro de los objetos también podemos establecer funciones. A estas funciones guardadas
+las llamamos métodos.
+
+Bucle for...in 
+Así como los arrays los podemos recorrer con el ciclo for, los objetos
+los podemos recorrer varios for pero cada uno de manera especial.
+
+for...in 
+Entre paréntesis declaramos la variable, establecemos una palabra clave luego
+la palabra in y por último el nombre del objeto.
+
+for(let clave in objetoName){
+    //acciones
+}
+Recorre cada clave del objeto y finaliza cuando haya iterado todas las claves.
+
+Notación de puntos vs notación de corchetes
+
+La notación entre corchetes permite el uso de caracteres que no 
+se pueden usar con la notación de puntos.
+
+var foo = myForm.foo[]; // incorrect syntax
+var foo = myForm["foo[]"]; // correct syntax
+
+En segundo lugar, la notación entre corchetes es útil cuando se trata 
+de nombres de propiedades que varían de manera predecible.
+
+La notación de puntos es más rápida de escribir y más clara de leer.
+La notación entre corchetes permite el acceso a propiedades que contienen 
+caracteres especiales y selección de propiedades usando variables
+
