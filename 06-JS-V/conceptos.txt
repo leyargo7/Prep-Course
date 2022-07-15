@@ -1,0 +1,7 @@
+prototype:
+Es una referencia que se tiene de un objeto que nos va servir
+para añadirle más métodos o propiedades.
+
+
+Constructors (de Clases):
+Es un método especial para crear e inicializar instancias de objetos.
